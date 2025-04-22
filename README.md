@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Noah Andersson]
+## 👋 Hello, I'm Noah Andersson
 
 **🚀 Senior Mobile App Developer | React ⚛️ Node.js 🌐 Python 🐍 React Native ⚛️ | TypeScript 📜 SQL & NoSQL 💾
 
@@ -32,14 +32,14 @@ https://github.com/pm-0716/pm-0716/tree/main
 
 ### 💼 **Professional Experience**
 
-- **🔹 Capital One | Senior Full Stack Developer**
+- **🔹 Capital One | Senior Mobile Developer**
   - 🏆 Led the development of Vue.js-based applications, boosting client satisfaction by 30%.
   - 🔄 Implemented reusable TypeScript components, improving code efficiency and project scalability.
   - 🔗 Integrated backend services and RESTful APIs for secure data operations.
   - 🛡️ Advocated for **Test-Driven Development (TDD)**, enhancing application reliability.
   - 🤝 Mentored junior developers and facilitated team code reviews.
   
-- **🔹 Cognixia | Full Stack Engineer**
+- **🔹 Cognixia | Mobile Engineer**
   - 🔍 Resolved critical bugs in complex workflows, improving system reliability for over 5,000 users.
   - 🤝 Collaborated in Agile teams to deliver impactful, scalable solutions.
   - ⚙️ Improved system performance with modern JavaScript frameworks and backend integration.
@@ -49,19 +49,15 @@ https://github.com/pm-0716/pm-0716/tree/main
   - 📚 Conducted faculty workshops, elevating teaching practices.
   - 🏅 Achieved a 95% satisfaction rate through targeted feedback initiatives.
 
-- **🔹 AlmaBetter | Full Stack Software Dev Instructor**
+- **🔹 AlmaBetter | Mobile Software Dev Instructor**
   - 👨‍🏫 Taught 15+ batches of students, focusing on real-world, project-based learning.
   - 🚀 Helped students achieve an 80% placement rate at leading tech companies.
-
-- **🔹 HCL Technologies | Software Engineer**
-  - 💻 Developed scalable applications with **Java**, **Spring Boot**, and cloud integration, raising client satisfaction by 20%.
-  - ⏱️ Delivered projects under tight deadlines, earning recognition for reliability and teamwork.
 
 ---
 
 ### 🎓 **Education**
 
-- **🎓 University of New Haven**
+- **🎓 Amerikanska Gymnasiet **
   - M.S. in Business Analytics 📊 (Completed Dec 2023)
 - **🎓 Zero To Mastery Academy**
   - Certification in Computer Science 💻 (Completed Dec 2023)
@@ -72,8 +68,8 @@ https://github.com/pm-0716/pm-0716/tree/main
 
 ### 🌟 **Skills Highlight**
 
-- **💻 Full-Stack Development**: Vue.js, React, Angular, Node.js
-- **🧠 AI/ML Integration**: TensorFlow, PyTorch, NLP, model deployment
+- **💻 Full-Stack Development**: React Native, React, Expo, Node.js
+- **🧠 AI/ML Integration**: TensorFlow, PyTorch, NLP, OpenAI deployment
 - **☁️ Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins
 - **📈 Data Management**: SQL, NoSQL (MongoDB, Cassandra)
 - **🔧 Agile Practices & TDD**: Project management, code reviews, mentorship
