@@ -1,6 +1,6 @@
-## 👋 Hello, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) 
+## 👋 Hello, I'm [Noah Andersson]
 
-**🚀 Senior Full Stack Developer | Vue.js 🎨 React ⚛️ Angular 🅰️ Node.js 🌐 Python 🐍 Django | Java Spring Boot ☕ TypeScript 📜 SQL & NoSQL 💾 | Microservices**
+**🚀 Senior Mobile App Developer | React ⚛️ Node.js 🌐 Python 🐍 React Native ⚛️ | TypeScript 📜 SQL & NoSQL 💾
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
 https://github.com/pm-0716/pm-0716/tree/main
@@ -25,7 +25,7 @@ https://github.com/pm-0716/pm-0716/tree/main
 - 🌐 A versatile **Full-Stack Developer** and tech enthusiast, blending hands-on experience in **web development** with advanced **AI/ML knowledge** to build innovative solutions.
 - 🛠️ Proficient in crafting modern, scalable web applications using **React**, **Vue.js**, **Node.js**, and **Angular**.
 - ☁️ Expert in cloud technologies, including **AWS**, **Azure**, and containerization tools like **Docker** and **Kubernetes**.
-- 🎯 Currently engaged in **front-end and API development** using **Vue.js** and **Node.js**, focusing on seamless user experiences.
+- 🎯 Currently engaged in **front-end and API development** using Node.js**, focusing on seamless user experiences.
 - 🤝 A dedicated mentor and educator, committed to empowering future developers and fostering a collaborative tech community.
 
 ---
